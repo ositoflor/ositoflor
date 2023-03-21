@@ -1,4 +1,5 @@
-### Olá!! Eu sou Osito Flor, estudante e amante da tecnologia 👋
+### Sou apaixonado por tecnologia. Natural de Recife - PE, formado em analise e desenvolvimento de sistemas, hoje atuo como desenvolvedor de software e tenho buscado constantemente novos conhecimentos nessa área. 
+Tenho uma grande curiosidade em conhecer novas pessoas e culturas, sempre buscando entender como tudo funciona e evolui no mundo da tecnologia. Acredito que a tecnologia tem um grande potencial para transformar a sociedade e estou empenhado em contribuir para esse avanço. Além disso, gosto muito de compartilhar conhecimento e aprender com outras pessoas, por isso estou sempre aberto a conversas e novas oportunidades. 👋
 
 <div align="center">
   <a href="https://github.com/ositoflor">
